@@ -9,6 +9,8 @@ sites:
     url: https://primes-cmms.handymes.com
   - name: primes-mms
     url: https://primes-mms.handymes.com
+  - name: primes-qms
+    url: https://primes-qms.handymes.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
