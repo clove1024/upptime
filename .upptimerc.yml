@@ -24,7 +24,7 @@ status-website:
   introTitle: "무른모 primes-service uptime+평균응답속도 and status page, powered entirely by GitHub."
   introMessage: 이 페이지는 **real-time** 으로 data를 수집하여 표시합니다. [GitHub repository](https://github.com/clove1024/upptime.git).  이 페이지는 GitHub Actions 으로 구성 되었습니다.
   navbar:
-    - title: GitHub
+    - title: Moornmo Primes-Service
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
