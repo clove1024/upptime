@@ -21,8 +21,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: primes service Upptime status
-  introTitle: "무른모 primes-service uptime+평균응답속도 status page, powered entirely by GitHub."
-  introMessage: 이 페이지는 primes-service 서비스를 수집하여 표시합니다. [GitHub repository](https://github.com/clove1024/upptime.git).  이 페이지는 GitHub Actions 으로 구성 되었습니다.
+  introTitle: "무른모 프라임즈 서비스 서비스UP+평균응답속도"
+  introMessage: 이 페이지는 프라임즈 서비스의 실시간 응답 DATA를 수집하여 표시합니다.
   navbar:
     - title: Moornmo Primes-Service
       href: https://github.com/$OWNER/$REPO
